@@ -1,0 +1,7 @@
+repository = "https://github.com/ElessHorus/dependency-lens-plugin"
+suggest = ["Cargo.toml", "package.json", "go.mod", "pom.xml", "pyproject.toml", "requirements.txt", "composer.json", "pubspec.yaml"]
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/ElessHorus/dependency-lens-plugin/releases/download/v0.1.0/elesshorus.dependency-lens-0.1.0.oiplugin"
+sha256 = "f99ec36b527b0b379a4502d8d106429c59374c87dbd7894ca13e4c7f3c69100d"
