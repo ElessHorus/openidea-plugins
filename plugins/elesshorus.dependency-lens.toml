@@ -5,5 +5,3 @@ suggest = ["Cargo.toml", "package.json", "go.mod", "pom.xml", "pyproject.toml", 
 version = "0.1.2"
 package = "https://github.com/ElessHorus/dependency-lens-plugin/releases/download/v0.1.2/elesshorus.dependency-lens-0.1.2.oiplugin"
 sha256 = "c8e8cd861366b02f7e0668a16d0e04dea0cd5ff49f0c4ebd4753fdba50a03525"
-
-
