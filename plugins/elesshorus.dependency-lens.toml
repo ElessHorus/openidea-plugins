@@ -2,6 +2,6 @@ repository = "https://github.com/ElessHorus/dependency-lens-plugin"
 suggest = ["Cargo.toml", "package.json", "go.mod", "pom.xml", "pyproject.toml", "requirements.txt", "composer.json", "pubspec.yaml"]
 
 [[versions]]
-version = "0.1.2"
-package = "https://github.com/ElessHorus/dependency-lens-plugin/releases/download/v0.1.2/elesshorus.dependency-lens-0.1.2.oiplugin"
-sha256 = "c8e8cd861366b02f7e0668a16d0e04dea0cd5ff49f0c4ebd4753fdba50a03525"
+version = "0.1.3"
+package = "https://github.com/ElessHorus/dependency-lens-plugin/releases/download/v0.1.3/elesshorus.dependency-lens-0.1.3.oiplugin"
+sha256 = "feb02d3cc0e2f4e3edfb2ee0bdc79626b9cfba1c8b5b99240b556fedec10abb8"
